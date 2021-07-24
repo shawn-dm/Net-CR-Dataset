@@ -5,6 +5,7 @@ We get these data from Twitter.
 
 ## source_tweet.csv
 It contains the information of source tweets, including tweet ID (id), tweet text (full_text) and tweet label (label).
+
 The tweet with a label of '1' is annotated as a rumor. Otherwise, a non-rumor.
 
 ## edges.csv
